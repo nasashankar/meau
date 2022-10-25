@@ -1,0 +1,26 @@
+body
+{
+	padding: 0px;
+	margin: 0px;
+
+}
+.footer_text
+{
+	text-align: center;
+	background-color: #323232;
+	padding:10px;
+	color: #fff;
+}
+.logo
+{
+	margin: auto;
+}
+.reg_form
+{
+	margin-left: 100px; 
+}
+.pro_image
+{
+	width: 100px;
+	height: auto;
+}
